@@ -1,3 +1,4 @@
 function fn(){
-	console.log(n);
+	console.log(1);
 }
+
