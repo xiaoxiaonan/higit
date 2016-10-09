@@ -4,3 +4,8 @@ function fn3(){
 }
 
 fn3();
+
+var n = 0;
+function fn(){
+	console.log(n);
+}
